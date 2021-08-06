@@ -5,7 +5,7 @@
 /.pnp
 .pnp.js
 /helpers
-/src/components/finishedTutorials
+/src/components/finishedTutorial
 
 # testing
 /coverage
