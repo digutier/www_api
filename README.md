@@ -1,6 +1,6 @@
 # Instrucciones de uso:
 
-Dentro de la vista principal, se muestra un formulario para rellenar campos correspondientes que se utilizarán para los métodos POST y DELETE con sus botones. Bajo el formulario se muestra el listado de todas las encuestas disponibles de la base de datos.
+Dentro de la vista principal, se muestra un formulario para rellenar campos correspondientes que se utilizarán para los métodos POST y DELETE con sus botones. Bajo el formulario se muestra el listado de todas las encuestas disponibles de la base de datos. (Se pueden observar las vistas dentro de la carpeta "capturas" en la raíz del repositorio)
 
 ## POST
 
